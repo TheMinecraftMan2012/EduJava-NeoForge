@@ -1,0 +1,21 @@
+// 1.21.3	2024-12-04T00:19:02.1299684	Block States: edujava
+c1c1e8617efcf0d4efd36a21310f50c2fcbbf520 assets/edujava/blockstates/beryllium.json
+7f0ada7c9f45badb72dca5d5d186c958e25e5e6b assets/edujava/blockstates/boron.json
+d27b28c0d1497a2c57ba155572512357a25796da assets/edujava/blockstates/carbon.json
+843e87b5957811b4af4aa0925491be15568faf92 assets/edujava/blockstates/fluorine.json
+da4c3e5e0f7204b4788c631222f487d5aea5cd03 assets/edujava/blockstates/helium.json
+1e4d8ab54ada9508ef8061a7c4b00867ff015027 assets/edujava/blockstates/hydrogen.json
+9ba1ff2b5300864ea850e1c62bf11b3cad6fa366 assets/edujava/blockstates/lithium.json
+7d1a00606a53bea996fffa737262ec913c055e2e assets/edujava/blockstates/neon.json
+eade7ad9a9de9defefff048e32c17a0beb10fb01 assets/edujava/blockstates/nitrogen.json
+147d1e3d214839f258ff984dd35920dd335c5c1d assets/edujava/blockstates/oxygen.json
+3038a1d4b96e863f402dcfc921c604e395698ae8 assets/edujava/models/block/beryllium.json
+e075c9c0802a52b50dd8a6ca23f76c815bebfd30 assets/edujava/models/block/boron.json
+495aadaff54f0fcf51894f253b895f9db6f17396 assets/edujava/models/block/carbon.json
+ad23ca761e0d57f8c246d661b0a48112c9d070d0 assets/edujava/models/block/fluorine.json
+c618b4658b92a0ae874c179844faa47e5e9f8c6b assets/edujava/models/block/helium.json
+2dd473d04614b33533b43f8236204cd58543c7f1 assets/edujava/models/block/hydrogen.json
+af5bcc556039745380143e4a6ab6547bfcfc0dd2 assets/edujava/models/block/lithium.json
+36a7f39522e993610667f8129648f72b98ba8a18 assets/edujava/models/block/neon.json
+123f99c43b175004cfef94c1350a175b1f12c7ab assets/edujava/models/block/nitrogen.json
+f602ee428b4feab9bb7e22aea39eddca8fdd26f6 assets/edujava/models/block/oxygen.json

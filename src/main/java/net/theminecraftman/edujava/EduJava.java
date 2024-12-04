@@ -1,5 +1,8 @@
 package net.theminecraftman.edujava;
 
+import net.theminecraftman.edujava.EJ_CMT.EduJava_CreativeTabs;
+import net.theminecraftman.edujava.EJ_Registries.EduJava_BlockClass;
+import net.theminecraftman.edujava.EJ_Registries.EduJava_ItemClass;
 import org.slf4j.Logger;
 
 import com.mojang.logging.LogUtils;
@@ -29,7 +32,11 @@ public class EduJava
         modEventBus.addListener(this::commonSetup);
         NeoForge.EVENT_BUS.register(this);
         modEventBus.addListener(this::addCreative);
-        modContainer.registerConfig(ModConfig.Type.COMMON, Config.SPEC);
+
+        EduJava_CreativeTabs.register(modEventBus);
+
+        EduJava_ItemClass.register(modEventBus);
+        EduJava_BlockClass.register(modEventBus);
     }
 
     private void commonSetup(final FMLCommonSetupEvent event)
